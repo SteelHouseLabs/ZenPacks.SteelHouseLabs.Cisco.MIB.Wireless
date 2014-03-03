@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.SteelHouseLabs.Cisco.MIB.Wireless = ZenPacks.SteelHouseLabs.Cisco.MIB.Wireless
+
